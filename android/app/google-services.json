@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_id": "advanced_flutter_course",
+    "storage_bucket": "advanced_flutter_course.appspot.com",
+    "project_number": "482174993053"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482174993053:android:ea550aafa70250cf3b8a74",
+        "android_client_info": {
+          "package_name": "com.example.advanced_flutter_course"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPZlqExJmmsZ_u-u7hmCcmWCYzwP_PmGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482174993053:android:ea550aafa70250cf3b8a75",
+        "android_client_info": {
+          "package_name": "com.example.advanced_flutter_course.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPZlqExJmmsZ_u-u7hmCcmWCYzwP_PmGx"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
