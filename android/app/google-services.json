@@ -1,8 +1,8 @@
 {
   "project_info": {
-    "project_id": "advanced_flutter_course",
-    "storage_bucket": "advanced_flutter_course.appspot.com",
-    "project_number": "482174993053"
+    "project_number": "482174993053",
+    "project_id": "advanced-app-distribution",
+    "storage_bucket": "advanced-app-distribution.firebasestorage.app"
   },
   "client": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:482174993053:android:ea550aafa70250cf3b8a75",
+        "mobilesdk_app_id": "1:482174993053:android:87e877330cce97c33b8a74",
         "android_client_info": {
           "package_name": "com.example.advanced_flutter_course.dev"
         }
@@ -34,7 +34,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAPZlqExJmmsZ_u-u7hmCcmWCYzwP_PmGx"
+          "current_key": "AIzaSyAPZlqExJmmsZ_u-u7hmCcmWCYzwP_PmGw"
         }
       ],
       "services": {
